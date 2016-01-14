@@ -1,0 +1,20 @@
+{
+  "name": "phptdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "clear": "0.0.1",
+    "gulp": "^3.9.0",
+    "gulp-exec": "^2.1.2",
+    "gulp-notify": "^2.2.0",
+    "gulp-phpspec": "^0.5.3",
+    "gulp-phpunit": "^0.11.3",
+    "gulp-run": "^1.6.12"
+  }
+}
